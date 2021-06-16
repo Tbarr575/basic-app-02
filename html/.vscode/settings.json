@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/e25924d6-a3b6-463a-ba5f-5213c824bba5/resourceGroups/weu-sp06-rsg-test-01/providers/Microsoft.Web/sites/weu-sp06-web-test-01",
+    "appService.deploySubpath": "."
+}
